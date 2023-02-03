@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RX8Bo/t6oWcZxQT0E69vo6WDR8qmlJ8Kq4wuaS3Feb+WYK+vODL8mtLinrTxW0s0JCE560zPZxridUfyb8WLJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karth\\OneDrive\\Desktop\\StudyMaterial\\Doge\\MVC\\MVC\\MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karth\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

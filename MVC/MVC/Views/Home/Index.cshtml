@@ -1,0 +1,21 @@
+﻿@model System.Collections.Generic.List<string>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @foreach (var item in Model)
+    {
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-3">
+            <div class="col">
+                <div class="card h-100" style="border:solid 1px #42f5d4">
+                    <img src="@item" class="card-img-top rounded"
+                    style="width:100%; align-self:center;border:solid 1px #42f5d4" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title text text-primary mx-2">@item.Split('/')[4]</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

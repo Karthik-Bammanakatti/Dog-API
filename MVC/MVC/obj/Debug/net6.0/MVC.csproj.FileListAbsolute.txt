@@ -1,0 +1,56 @@
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\bin\Debug\net6.0\MVC.staticwebassets.runtime.json
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\bin\Debug\net6.0\MVC.exe
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\bin\Debug\net6.0\MVC.deps.json
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\bin\Debug\net6.0\MVC.runtimeconfig.json
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\bin\Debug\net6.0\MVC.dll
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\bin\Debug\net6.0\ref\MVC.dll
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\bin\Debug\net6.0\MVC.pdb
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\MVC.csproj.AssemblyReference.cache
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\MVC.AssemblyInfoInputs.cache
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\MVC.AssemblyInfo.cs
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cache
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cs
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\scopedcss\bundle\MVC.styles.css
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\scopedcss\projectbundle\MVC.bundle.scp.css
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\MVC.dll
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\ref\MVC.dll
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\MVC.pdb
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\MVC.genruntimeconfig.cache
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\1785115\OneDrive - TCS COM PROD\Desktop\Csharp\MVC\obj\Debug\net6.0\MVC.csproj.CopyComplete
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\bin\Debug\net6.0\MVC.staticwebassets.runtime.json
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\bin\Debug\net6.0\MVC.exe
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\bin\Debug\net6.0\MVC.deps.json
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\bin\Debug\net6.0\MVC.runtimeconfig.json
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\bin\Debug\net6.0\MVC.dll
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\bin\Debug\net6.0\MVC.pdb
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\MVC.csproj.AssemblyReference.cache
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\MVC.AssemblyInfoInputs.cache
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\MVC.AssemblyInfo.cs
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cache
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cs
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\scopedcss\bundle\MVC.styles.css
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\scopedcss\projectbundle\MVC.bundle.scp.css
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\MVC.csproj.CopyComplete
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\MVC.dll
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\refint\MVC.dll
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\MVC.pdb
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\MVC.genruntimeconfig.cache
+C:\Users\karth\OneDrive\Desktop\StudyMaterial\Doge\MVC\MVC\obj\Debug\net6.0\ref\MVC.dll

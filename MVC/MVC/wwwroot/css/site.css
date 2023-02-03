@@ -1,0 +1,72 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.text-center {
+  display: flex;
+  margin: 0 auto;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card {
+  flex-grow: 0.5;
+  flex-basis: calc(33.33% - 60px);
+  margin: 10px;
+  transition: 0.8s;
+}
+
+.card:hover {
+  border-color: rgb(13, 110, 253);
+  box-shadow: 0px 0px 10px 2px rgb(13, 110, 253);
+}
+
+label {
+  font-size: 30px;
+  font-weight: 500;
+}
+.breed {
+  height: 40px;
+  border: solid 1px black;
+  transition: 0.8s;
+}
+
+.breed:hover{
+  border-color: rgb(13, 110, 253);
+  box-shadow: 0px 0px 5px 2px rgb(13, 110, 253);
+  border-radius: 4px;
+}
+
+.sub {
+  height: 40px;
+  font-size: 20px;
+  color: rgb(13, 110, 253);
+  background-color: white;
+  border: solid 1px  rgb(13, 110, 253);
+  transition: 0.8s;
+  line-height: 20px; /* <- changed this */
+  box-sizing: border-box; /* <- added this */
+  transform: translate(0px, -5px);
+}
+.sub:hover {
+  background-color: rgb(13, 110, 253);
+  color: white;
+  border-radius: 4px;
+  box-shadow: 0px 0px 5px 2px rgb(13, 110, 253);
+}
